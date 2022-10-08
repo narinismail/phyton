@@ -1,0 +1,2 @@
+# phyton
+kendimi geliştiriyorum
